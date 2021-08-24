@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning new things
 - 🌱 I’m currently learning ...in vit
 - 💞️ I’m looking to collaborate on ...my projects
-- 📫 How to reach me ...@ItKommineni
+- 📫 How to reach me ...@ItKommineni(tweet)
 
 <!---
 Bhargav19022001/Bhargav19022001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
