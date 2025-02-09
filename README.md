@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhargav19022001
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...in vit
+- 🌱 I’m currently learning ...in Eiu
 - 💞️ I’m looking to collaborate on ...my projects
 - 📫 How to reach me ...@ItKommineni(tweet)
 
