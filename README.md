@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning ...on Full-Stack Development
 - 💞️ I’m looking to collaborate on ...Machine Learning projects
-- 📫 How to reach me ...  bhargavkommineni@gmail.com
+- 📫 How to reach me ...  bhargavkommineni117@gmail.com
 
 <!---
 Bhargav19022001/Bhargav19022001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
