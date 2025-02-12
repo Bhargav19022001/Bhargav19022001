@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhargav Kommineni
+- 👋 Hi, I’m Bhargav Kommineni
 - 👀 I’m interested in ...Python, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning ...on Full-Stack Development
 - 💞️ I’m looking to collaborate on ...Machine Learning projects
